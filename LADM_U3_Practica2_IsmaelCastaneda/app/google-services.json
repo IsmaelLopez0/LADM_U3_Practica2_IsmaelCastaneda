@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965269622749",
+    "firebase_url": "https://ladmu3practica2ismaelcastaneda.firebaseio.com",
+    "project_id": "ladmu3practica2ismaelcastaneda",
+    "storage_bucket": "ladmu3practica2ismaelcastaneda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965269622749:android:95d848ab56e6049e56b034",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_practica2_ismaelcastaneda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965269622749-jmivv55m5175tmhdkd5s1nks5qn6um6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.ladm_u3_practica2_ismaelcastaneda",
+            "certificate_hash": "ed290d54af830d0f45f5c6cd65f41669a8f31a8d"
+          }
+        },
+        {
+          "client_id": "965269622749-gqcgqs7h89vt1cbg9dsiu337sf6gns86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOQmdfw8annP4IUIHxkICJVTUqdZCZw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965269622749-gqcgqs7h89vt1cbg9dsiu337sf6gns86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
